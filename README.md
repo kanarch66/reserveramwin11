@@ -3,3 +3,5 @@ or
 double click the bat file to run
 
 terminating the powershell screen will release back the ram reserved to win11
+
+Default 512 mb
